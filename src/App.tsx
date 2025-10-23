@@ -7,7 +7,7 @@ import { Button } from './components/ui/button';
 import { motion } from 'framer-motion';
 
 export default function App() {
-  const telegramLink = "https://t.me/yourdealschannel"; // Replace with actual Telegram channel link
+  const telegramLink = "https://t.me/+EiA31XyvLGlmZDI0";
 
   return (
     <div className="min-h-screen bg-[#1a1a1a] text-[#f5f5f5]">
